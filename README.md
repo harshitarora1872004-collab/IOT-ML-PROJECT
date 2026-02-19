@@ -66,7 +66,7 @@ Tech Stack -
 
 3) Blood Pressure Sensor
 
-4) SpO₂ Sensor (MAX30100 / MAX30102)
+4) SpO₂ Sensor (MAX30100)
 
 5) Heart Rate Sensor
 
@@ -74,7 +74,7 @@ Tech Stack -
 
 Software -
 
-1) Arduino IDE (Embedded C/C++)
+1) Arduino IDE (Embedded C)
 
 2) Python
 
