@@ -2,6 +2,29 @@
 IOT BASED SMART HEALTH WEARABLE WITH MACHINE LEARNING ANOMALIES 
 -This project presents an IoT-based wearable health monitoring system designed for real-time tracking of vital physiological parameters and automated anomaly detection using Machine Learning.
 The system uses biomedical sensors interfaced with an ESP8266 microcontroller to collect health data and transmit it to Firebase for cloud storage and monitoring. A Random Forest classifier is implemented to detect abnormal physiological patterns.
+![WhatsApp Image 2026-02-19 at 7 13 13 PM](https://github.com/user-attachments/assets/08f2bbb1-eb1d-4032-a83f-6f4b6fc1c604)
+
+
+Components 
+MAX30100 Pulse Oximeter
+![WhatsApp Image 2026-02-19 at 7 13 13 PM (1)](https://github.com/user-attachments/assets/2c55c6e0-0688-41b1-a3fe-afe7f8f77fcf)
+
+DHT11 Sensor Module 
+![WhatsApp Image 2026-02-19 at 7 13 14 PM](https://github.com/user-attachments/assets/0ff00114-8065-4cdc-91e4-c3d888f7e32f)
+
+
+MPU
+![WhatsApp Image 2026-02-19 at 7 13 14 PM (1)](https://github.com/user-attachments/assets/5891e87d-b548-426d-b129-2ec3f04aa049)
+
+
+GPS ANTENNA and Module
+NEO-6M GPS Module
+Ceramic GPS Antenna
+![WhatsApp Image 2026-02-19 at 7 13 14 PM (2)](https://github.com/user-attachments/assets/d8153bb7-542b-45b6-bb15-ae2b5556a904)
+
+ESP8266 NodeMCU , MAX30100 Sensor
+![WhatsApp Image 2026-02-19 at 7 13 15 PM](https://github.com/user-attachments/assets/c9618a96-a931-43d9-ba2a-91c0f812bc15)
+
 
 Features -
 
