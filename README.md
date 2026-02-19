@@ -6,6 +6,7 @@ The system uses biomedical sensors interfaced with an ESP8266 microcontroller to
 
 
 Components 
+
 MAX30100 Pulse Oximeter
 ![WhatsApp Image 2026-02-19 at 7 13 13 PM (1)](https://github.com/user-attachments/assets/2c55c6e0-0688-41b1-a3fe-afe7f8f77fcf)
 
