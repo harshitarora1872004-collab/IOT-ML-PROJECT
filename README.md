@@ -18,8 +18,8 @@ MPU
 
 
 GPS ANTENNA and Module
-NEO-6M GPS Module
-Ceramic GPS Antenna
+
+NEO-6M GPS Module , Ceramic GPS Antenna
 ![WhatsApp Image 2026-02-19 at 7 13 14 PM (2)](https://github.com/user-attachments/assets/d8153bb7-542b-45b6-bb15-ae2b5556a904)
 
 ESP8266 NodeMCU , MAX30100 Sensor
