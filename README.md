@@ -6,19 +6,19 @@ The system uses biomedical sensors interfaced with an ESP8266 microcontroller to
 Features -
 
 A) Real-time monitoring of:
-1)Heart Rate
+1) Heart Rate
 
-2)Blood Pressure
+2) Blood Pressure
 
-3)SpO₂ (Oxygen Saturation)
+3) SpO₂ (Oxygen Saturation)
 
-4)Step Count
+4) Step Count
 
 B) Wi-Fi data transmission using ESP8266
 
-C)Cloud storage via Firebase Realtime Database
+C) Cloud storage via Firebase Realtime Database
 
-D)Machine Learning-based anomaly detection
+D) Machine Learning-based anomaly detection
 
 E) Remote monitoring capability
 
@@ -71,17 +71,17 @@ The model was selected for its robustness to noise, ability to handle multivaria
 
 Applications 
 
-1)Remote patient monitoring
+1) Remote patient monitoring
 
-2)Elderly health supervision
+2) Elderly health supervision
 
-3)Preventive healthcare systems
+3) Preventive healthcare systems
 
-4)Smart wearable health analytics
+4) Smart wearable health analytics
 
-5)Future Work
+5) Future Work
 
-6)LSTM-based temporal anomaly detection
+6) LSTM-based temporal anomaly detection
 
 7)Mobile application integration
 
