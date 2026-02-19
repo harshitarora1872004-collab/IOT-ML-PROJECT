@@ -57,9 +57,9 @@ Software -
 
 3) Scikit-learn (Random Forest)
 
-Firebase Realtime Database
+4) Firebase Realtime Database
 
-4) Machine Learning Model
+5) Machine Learning Model
 
 Algorithm: Random Forest Classifier
 
@@ -69,7 +69,7 @@ Output Classes: Normal / Anomaly
 
 The model was selected for its robustness to noise, ability to handle multivariate health data, and reduced overfitting compared to single decision trees.
 
-Applications 
+Applications -
 
 1) Remote patient monitoring
 
