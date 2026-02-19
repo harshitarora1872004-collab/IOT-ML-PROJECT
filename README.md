@@ -83,8 +83,8 @@ Applications
 
 6) LSTM-based temporal anomaly detection
 
-7)Mobile application integration
+7) Mobile application integration
 
-8)Real-time alert system (SMS/Email)
+8) Real-time alert system (SMS/Email)
 
-9)Edge AI deployment
+9) Edge AI deployment
